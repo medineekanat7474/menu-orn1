@@ -1,0 +1,10 @@
+C:\Users\PC0\Desktop\menu-orn\menu-orn\bin\Debug\menu-orn.exe.config
+C:\Users\PC0\Desktop\menu-orn\menu-orn\bin\Debug\menu-orn.exe
+C:\Users\PC0\Desktop\menu-orn\menu-orn\bin\Debug\menu-orn.pdb
+C:\Users\PC0\Desktop\menu-orn\menu-orn\obj\Debug\menu-orn.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\menu-orn\menu-orn\obj\Debug\menu_orn.Form1.resources
+C:\Users\PC0\Desktop\menu-orn\menu-orn\obj\Debug\menu_orn.Properties.Resources.resources
+C:\Users\PC0\Desktop\menu-orn\menu-orn\obj\Debug\menu-orn.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\menu-orn\menu-orn\obj\Debug\menu-orn.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\menu-orn\menu-orn\obj\Debug\menu-orn.exe
+C:\Users\PC0\Desktop\menu-orn\menu-orn\obj\Debug\menu-orn.pdb
